@@ -1,0 +1,23 @@
+Queries
+
+Problem NO: 01
+
+STATEMENT: BASIC QUERIES ON EMPLOYEE, DEPARTMENT TABLES USING BUILT-IN FUNCTIONS.
+
+1.  Display the department names in the lower case but the initial must be in uppercase. 
+2.  Determine the ‘ename’, ‘job’, ‘sal’ rename the title as Job-sal the output must be
+      Job-Sal as SMITH[CLERKRS.2000]
+3.  Count the number of times S occurs in department names.
+4.  Write a query to display the department name which does not contains any employees.
+5.  Write a query to display all employee details where employee was joined during the years 1980 to 1990 and in the 2nd week of a month
+6.  Write an SQL statement to convert the current date to new date picture 
+ex: MONDAY  10th 2005 10:30.00 PM
+7.  Write a query to display details of all employees who joined on last Monday of a month and whose experience is more than 20 months.
+8.  Write a query to calculate the service of employees rounded to years.
+9.  Write a query that will display all different job types.
+10.  Write a query that will display list of employees and their salary and the comments as follows.
+ 	If the salary is more than 1500 then display “above target”
+If the salary is equal to 1500 then display “on the target”
+If the salary is less than 1500 then display “below the target”
+11. Display all employee names, employee number, department names & salary grades for all employees who are working in department 30.
+12. Display the time of day.
